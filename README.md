@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Wilbsom</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">Olá 👋, Me chamo Wilbsom Gonçalves</h1>
+<h3 align="center">Um brasileiro front-end apaxionado</h3>
 
-- 🔭 I’m currently working on [PetLife](file:///C:/Users/wills/OneDrive/DS/VISUAL%20CODE/Petshop%20Onebit%20code/index.html)
+- 🔭 Estou atualmente trabalhando no projeto [PetLife](file:///C:/Users/wills/OneDrive/DS/VISUAL%20CODE/Petshop%20Onebit%20code/index.html) no Start na Programação 🤟 da OneBitCode.
 
-- 🌱 I’m currently learning **Django, Python, HTML LUA**
+- 🌱 Atualmente estou aprendendo **Django, Python, HTML LUA**
 
-- 📫 How to reach me **willsuporte@gmail.com**
+- 📫 Contato**willsuporte@gmail.com**
 
-- Know more about me [I'm Wilbsom, I'm 18 years old and I'm starting out in the technology field, however with a lot of determination and passion.](I'm Wilbsom, I'm 18 years old and I'm starting out in the technology field, however with a lot of determination and passion.)
+-Saiba mais sobre mim [I'm Wilbsom, I'm 18 years old and I'm starting out in the technology field, however with a lot of determination and passion.](I'm Wilbsom, I'm 18 years old and I'm starting out in the technology field, however with a lot of determination and passion.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
