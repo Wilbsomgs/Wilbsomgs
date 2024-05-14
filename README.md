@@ -2,14 +2,14 @@
 <h3 align="center">Um brasileiro front-end apaxionado</h3>
 
 -Atualmente curso Análise e Desenvolvimento de Sistemas na UNIFG e ETE Advogado Gil David Rodrigues
-(file:///C:/Users/wills/OneDrive/DS/VISUAL%20CODE/Petshop%20Onebit%20code/index.html) no Start na Programação 🤟 da OneBitCode.
 
-- 🌱 Atualmente estou aprendendo **Django, Python, HTML LUA**
 
-- 📫 Contato**willsuporte@gmail.com**
+- 🌱 Atualmente estudando **C**
+
+- 📫 Contato **willsuporte@gmail.com**
 
 - Saiba mais sobre mim: 
-  Como dito antes, meu nome é Wilbsom, eu tenho 18 anos e decidi ingressar totalmente na área de tecnologia, especialmente, na programação.
+  Como dito antes, meu nome é Wilbsom, eu tenho 18 anos e decidi ingressar totalmente na área de tecnologia, especialmente, na área de programação.
   
 
 <h3 align="left">Connect with me:</h3>
