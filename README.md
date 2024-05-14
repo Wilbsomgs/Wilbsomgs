@@ -9,7 +9,7 @@
 - 📫 Contato **willsuporte@gmail.com**
 
 - Saiba mais sobre mim: 
-  Como dito antes, meu nome é Wilbsom, eu tenho 18 anos e decidi ingressar totalmente na área de tecnologia, especialmente, na área de programação.
+  Como dito antes, meu nome é Wilbsom, eu tenho 19 anos e decidi ingressar totalmente na área de tecnologia, especialmente, na área de programação.
   
 
 <h3 align="left">Connect with me:</h3>
