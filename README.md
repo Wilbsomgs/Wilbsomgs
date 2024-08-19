@@ -4,7 +4,7 @@
 -Atualmente curso Análise e Desenvolvimento de Sistemas na UNIFG e ETE Advogado Gil David Rodrigues
 
 
-- 🌱 Atualmente estudando **C**
+- 🌱 Atualmente estudando **HTML,CSS e Java**
 
 - 📫 Contato **willsuporte@gmail.com**
 
