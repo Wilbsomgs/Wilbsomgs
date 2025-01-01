@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Wilbsom Gonçalves</h1>
-<h3 align="center">Um brasileiro front-end apaxionado</h3>
+<h3 align="center">Um desenvolvedor full-stack em asceção.</h3>
 
 -Atualmente curso Análise e Desenvolvimento de Sistemas na UNIFG e ETE Advogado Gil David Rodrigues
 
