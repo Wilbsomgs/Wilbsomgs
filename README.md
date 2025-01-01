@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Me chamo Wilbsom Gonçalves</h1>
+<h1 align="center">Olá 👋, me chamo Wilbsom Gonçalves</h1>
 <h3 align="center">Um brasileiro front-end apaxionado</h3>
 
 -Atualmente curso Análise e Desenvolvimento de Sistemas na UNIFG e ETE Advogado Gil David Rodrigues
@@ -8,8 +8,7 @@
 
 - 📫 Contato **willsuporte@gmail.com**
 
-- Saiba mais sobre mim: 
-  Como dito antes, meu nome é Wilbsom, eu tenho 19 anos e decidi ingressar totalmente na área de tecnologia, especialmente, na área de programação.
+um ser humano apaixonado por tecnologia e tecnologia, atualmente estudando Ciência da computação pela Descomplica Faculdade Digital.
   
 
 <h3 align="left">Connect with me:</h3>
