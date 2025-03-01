@@ -3,12 +3,12 @@
 
 - 🌱 Atualmente estudando **HTML,CSS e Java**
 
-- 📫 Contato **willsuporte@gmail.com**
+- 📫 Contato **willsuporte12@gmail.com**
 
 um ser humano apaixonado por tecnologia e tecnologia, atualmente estudando Ciência da computação pela Descomplica Faculdade Digital.
   
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Instagram:</h3>
 <p align="left">
 <a href="https://instagram.com/will_silvaofc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="will_silvaofc1" height="30" width="40" /></a>
 </p>
