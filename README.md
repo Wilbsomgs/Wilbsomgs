@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Wilbsom e sou apaixonado por tecnologia</h1>
+<h1 align="center">Olá, me chamo Wilbsom</h1>
 <h3 align="center">Um desenvolvedor full-stack em asceção.</h3>
 
 - 🌱 Atualmente estudando **HTML,CSS e Java**
