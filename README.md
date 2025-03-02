@@ -6,7 +6,7 @@
 - 📫 Contato: **willsuporte12@gmail.com**
 
 <h2>Formação</h2>
-<h3>´Bacharelado - Ciência da Computação</h3>
+<h3>Bacharelado - Ciência da Computação</h3>
 <p>Descomplica Faculdade Digital</p>
 <p>2024-2028 (Cursando)</p>
 
