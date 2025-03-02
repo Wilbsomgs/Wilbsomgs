@@ -1,12 +1,18 @@
-<h1 align="center">Olá 👋, me chamo Wilbsom Gonçalves</h1>
+<h1 align="center">Olá, me chamo Wilbsom e sou apaixonado por tecnologia</h1>
 <h3 align="center">Um desenvolvedor full-stack em asceção.</h3>
 
 - 🌱 Atualmente estudando **HTML,CSS e Java**
 
-- 📫 Contato **willsuporte12@gmail.com**
+- 📫 Contato: **willsuporte12@gmail.com**
 
-um ser humano apaixonado por tecnologia e tecnologia, atualmente estudando Ciência da computação pela Descomplica Faculdade Digital.
-  
+<h2>Formação</h2>
+<h3>´Bacharelado - Ciência da Computação</h3>
+<p>Descomplica Faculdade Digital</p>
+<p>2024-2028 (Cursando)</p>
+
+<h3>Técnico - Análise e Desenvolvimento de Sistemas</h3>
+<p>ETE Advogado David Gil Rodrigues</p>
+<p>2023-2024</p>
 
 <h3 align="left">Instagram:</h3>
 <p align="left">
