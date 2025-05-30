@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Wilbsom</h1>
-<h3 align="center">Um desenvolvedor full-stack em asceção.</h3>
+<h3 align="center">Desenvolvedor Backend</h3>
 
 - 🌱 Atualmente estudando **HTML,CSS e Java**
 
