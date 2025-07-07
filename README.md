@@ -1,24 +1,49 @@
-<h1 align="center">Olá, me chamo Wilbsom</h1>
-<h3 align="center">Desenvolvedor Backend</h3>
+<h1 align="center">Olá 👋, eu sou Wilbsom Gonçalves da Silva</h1>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor em formação</h3>
 
-- 🌱 Atualmente estudando **HTML,CSS e Java**
-
-- 📫 Contato: **willsuporte12@gmail.com**
-
-<h2>Formação</h2>
-<h3>Bacharelado - Ciência da Computação</h3>
-<p>Descomplica Faculdade Digital</p>
-<p>2024-2028 (Cursando)</p>
-
-<h3>Técnico - Análise e Desenvolvimento de Sistemas</h3>
-<p>ETE Advogado David Gil Rodrigues</p>
-<p>2023-2024</p>
-
-<h3 align="left">Instagram:</h3>
-<p align="left">
-<a href="https://instagram.com/will_silvaofc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="will_silvaofc1" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:willsuporte12@gmail.com"><img src="https://img.shields.io/badge/Email-willsuporte12@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/seu_usuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Linguagens de programação e ferramentas:</h3>
-<p align="left"> <a href="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🎓 Formação Acadêmica
+
+- 🎓 **Bacharelado em Ciência da Computação**  
+  _Descomplica Faculdade Digital_  
+  📅 **2024 - 2028 (Cursando)**
+
+- 🧑‍💻 **Técnico em Análise e Desenvolvimento de Sistemas**  
+  _ETE Advogado David Gil Rodrigues_  
+  📅 **2023 - 2024**
+
+---
+
+### 💻 Tecnologias com as quais já trabalhei
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+---
+
+### 📫 Contato
+
+- ✉️ Email: **willsuporte12@gmail.com**
+- 📷 Instagram: [@seu_usuario](https://instagram.com/seu_usuario)
+
+---
+
+### 📌 Sobre mim
+
+Sou um estudante apaixonado por tecnologia e programação, atualmente no **2º semestre** de Ciência da Computação. Gosto de aprender novas tecnologias e colocar em prática o que estudo em projetos pessoais. Estou sempre buscando evoluir como desenvolvedor e como profissional de tecnologia.
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil! 😄
+</p>
