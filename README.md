@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:willsuporte12@gmail.com"><img src="https://img.shields.io/badge/Email-willsuporte12@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="(https://www.instagram.com/will_silvaofc1/?hl=en)" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/will_silvaofc1" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ### 📫 Contato
 
 - ✉️ Email: **willsuporte12@gmail.com**
-- 📷 Instagram: [@will_silvaofc1]((https://www.instagram.com/will_silvaofc1/?hl=en))
+- 📷 Instagram: [@will_silvaofc1](https://www.instagram.com/will_silvaofc1)
 
 ---
 
