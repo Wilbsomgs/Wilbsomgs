@@ -11,7 +11,7 @@
 ### 🎓 Formação Acadêmica
 
 - 🎓 **Bacharelado em Ciência da Computação**  
-  _Descomplica Faculdade Digital_  
+  _Centro Universitário União Das Américas Descomplica_  
   📅 **2024 - 2028 (Cursando)**
 
 - 🧑‍💻 **Técnico em Análise e Desenvolvimento de Sistemas**  
